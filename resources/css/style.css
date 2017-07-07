@@ -27,7 +27,7 @@ a {
   font-size: 16px;
 }
 
-p {
+.description {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
