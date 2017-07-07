@@ -21,12 +21,13 @@ h2 {
 .copy {
   text-align: right;
   color: gray;
-  font-family: verdana;
+  font-family: Verdana;
 }
 
 a {
   color: aquamarine;
   font-size: 16px;
+  font-family: Verdana;
 }
 
 .description {
